@@ -1,1 +1,1 @@
-npm install
+fazer npm install
